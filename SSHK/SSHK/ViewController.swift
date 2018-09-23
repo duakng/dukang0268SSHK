@@ -46,6 +46,8 @@ class ViewController: UIViewController {
         print("再次测试")
         
         print("解决冲突")
+
+        print("冲突了")
     }
 
     override func didReceiveMemoryWarning() {
