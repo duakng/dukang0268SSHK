@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         self.title = "哈哈"
         
         print("我是SSHK")
+        print("我是张三")
     }
 
     override func didReceiveMemoryWarning() {
