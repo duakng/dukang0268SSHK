@@ -38,6 +38,8 @@ class ViewController: UIViewController {
         print(56789056789)
         
         print("我需要看看呢")
+        
+        print("不行")
     }
 
     override func didReceiveMemoryWarning() {
