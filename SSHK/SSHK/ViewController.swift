@@ -33,8 +33,7 @@ class ViewController: UIViewController {
         
         print("wehfbasdjhbfjhkadsbjkhfsad")
         
-        print("ybfaduysfbjasdbhfsad")
-        print("yufbhsduyvfew")
+        print("hahahahahhha")
     }
 
     override func didReceiveMemoryWarning() {
