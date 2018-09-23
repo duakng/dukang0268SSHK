@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         print("ceshine")
         
         print("7238bfhjbajsd")
+        
+        print("OK")
     }
 
     override func didReceiveMemoryWarning() {
